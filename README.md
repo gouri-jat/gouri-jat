@@ -17,5 +17,10 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=gouri-jat&icon=0&color=0)](https://visitcount.itsvg.in)
+![LeetCode Stats](https://leetcard.jacoblin.cool/gourijat?theme=dark&font=Ubuntu&ext=heatmap)
+
+
+![count](https://duolingo-stats-card.vercel.app/api?username=gouriijat&theme=onedark&sort=xp)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
