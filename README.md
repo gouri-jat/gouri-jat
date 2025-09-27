@@ -13,9 +13,15 @@
 ![](https://github-profile-trophy.vercel.app/?username=gouri-jat&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ## 🏅 CodeChef Badges
+<p align="center">
+  <a href="https://www.codechef.com/users/gouri01">
+    <img src="./badge1.png.png" alt="CodeChef Badge" width="350"/>
+  </a>
+  <a href="https://www.codechef.com/users/gouri01">
+    <img src="./badge2.jpg.png" alt="CodeChef Badge" width="350"/>
+  </a>
+</p>
 
-[![CodeChef Badge](./assets/badge1.png.png)](https://www.codechef.com/users/gouri01)
-[![CodeChef Badge](./assets/badge2.jpg.png)](https://www.codechef.com/users/gouri01)
 
 
 ### ✍️ Random Dev Quote
