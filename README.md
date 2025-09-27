@@ -1,4 +1,9 @@
+👋 Hi, I’m Gouri!
 
+💻 A passionate Computer Science student and aspiring Software Developer .
+🌱 Currently learning Backend Development, DSA in C++, and exploring Machine Learning.
+🎯 Goal: To build impactful projects, crack off-campus opportunities, and grow as a full-stack developer.
+✨ Interests: Web Development, Problem Solving, AI/ML.
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gourijat26@gmail.com) 
 
