@@ -12,6 +12,12 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=gouri-jat&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
+## 🏅 CodeChef Badges
+
+[![CodeChef Badge](./assets/badge1.png.png)](https://www.codechef.com/users/gouri01)
+[![CodeChef Badge](./assets/badge2.jpg.png)](https://www.codechef.com/users/gouri01)
+
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
