@@ -1,4 +1,4 @@
-👋 Hi, I’m Gouri!
+<b>👋 Hi, I’m Gouri!</b>
 <br>
 💻 A passionate Computer Science student and aspiring Software Developer .<br>
 🌱 Currently learning Backend Development, DSA in C++, and exploring Machine Learning.<br>
